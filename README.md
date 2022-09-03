@@ -2,6 +2,6 @@
 
 I'm *@Lexate*
 
-I'm
+I am
 
 > - bad at python :snake:
