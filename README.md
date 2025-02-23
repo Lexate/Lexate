@@ -1,7 +1,3 @@
-# hello,
+Hi, I'm a university student currently studying applied physics. In my spare time I'm mostly working on robotics projects primarily in Rust 🦀. 
 
-I'm *@Lexate*
-
-I am
-
-> - bad at python :snake:
+**Languages:** Rust, Python, C++
